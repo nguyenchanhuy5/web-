@@ -1,0 +1,14 @@
+
+> student-aid-courses@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.1s
+ ○ Compiling /api/courses ...
+ ✓ Compiled /api/courses in 2.9s (669 modules)
+ GET /api/courses?category=considering 200 in 3133ms
+ GET / 200 in 3641ms
